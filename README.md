@@ -3,7 +3,7 @@
 ## Installation
 ```
 npm install scraper-dni-reniec
-
+```
 ## Usage
 ```
 var scraper = require("scraper-dni-reniec");
