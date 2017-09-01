@@ -1,0 +1,29 @@
+{
+  "name": "scraper-dni-reniec",
+  "version": "1.0.0",
+  "description": "A basic scraper to get information by RUC from SUNAT website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliacer95/scraper-dni-reniec.git"
+  },
+  "keywords": [
+    "dni",
+    "reniec",
+    "scraper"
+  ],
+  "author": "Eliacer Fernandez Guevara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eliacer95/scraper-dni-reniec/issues"
+  },
+  "homepage": "https://github.com/eliacer95/scraper-dni-reniec#readme",
+  "dependencies": {
+    "async": "^2.5.0",
+    "cheerio": "^0.20.0-rc.2",
+    "request": "^2.72.0"
+  }
+}
